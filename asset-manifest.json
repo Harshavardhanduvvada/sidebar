@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "//github.com/Harshavardhanduvvada/sidebar/static/css/main.033b8ce2.css",
+    "main.js": "//github.com/Harshavardhanduvvada/sidebar/static/js/main.8175805d.js",
+    "static/js/787.e7719b9a.chunk.js": "//github.com/Harshavardhanduvvada/sidebar/static/js/787.e7719b9a.chunk.js",
+    "index.html": "//github.com/Harshavardhanduvvada/sidebar/index.html",
+    "main.033b8ce2.css.map": "//github.com/Harshavardhanduvvada/sidebar/static/css/main.033b8ce2.css.map",
+    "main.8175805d.js.map": "//github.com/Harshavardhanduvvada/sidebar/static/js/main.8175805d.js.map",
+    "787.e7719b9a.chunk.js.map": "//github.com/Harshavardhanduvvada/sidebar/static/js/787.e7719b9a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.033b8ce2.css",
+    "static/js/main.8175805d.js"
+  ]
+}
